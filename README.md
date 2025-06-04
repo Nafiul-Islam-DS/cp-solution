@@ -10,8 +10,10 @@ Here I upload my solutions to problems from various online judges like Codeforce
 
 ## 📌 Platforms Covered
 
-- [Codeforces](https://codeforces.com/profile/Btman_)
-- [LeetCode](https://leetcode.com/u/WM1qV7mggR/)
+
+- <a href="https://www.leetcode.com/nafiul-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul-afk" height="30" width="40" /></a>
+
+- <a href="https://codeforces.com/profile/Btman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Btman_" height="30" width="40" /></a>
 - [CodeChef](https://www.codechef.com/users/adorn_shop_86)  
 *(More to be added as I participate in other platforms)*
 
